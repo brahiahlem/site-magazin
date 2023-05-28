@@ -1,0 +1,12 @@
+form{
+border:5px solid brown;
+margin:20px auto;
+max-width:450px;
+padding:5px;
+
+}
+body{
+background-image:url("photos daas/sho.jpg");
+background-size:150%;
+background-repeat:non-repeat;
+}

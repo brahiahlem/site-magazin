@@ -1,0 +1,59 @@
+body{
+background-image:url("vestes/mpp.png");
+background-size:100%;
+background-repeat:non-repeat;
+
+}
+
+ div a{
+color:black;
+cursore:grab;
+
+}
+ div a:hover{
+color:crimson;
+padding-right:200px;
+}
+a:visited{
+color:black;
+ }
+div p{
+padding-right:200px;
+padding-left:120;
+color:white;
+}
+div ul{
+float:right;
+display:flex;
+justify-self:left;
+align-items:left;
+
+}
+div ul li{
+list-style:none;
+margin-left:90px;
+margin-top:40px;
+margin-right:80px
+font-size:20px;
+}
+div ul li a{
+color: rgb(100, 100, 100);
+text-decoration :none;
+font-size: 10PX;
+font-weight: 200;
+letter-spacing: 4px;
+
+background-color: hsl(200, 40%, 64%);
+padding: 10px 10px;
+border-radius: 40px;
+display: inline-block;
+width: 100px;
+transition: 0,5;
+margin: 25px;
+}
+
+
+div ul li a:hover{
+background-color: rgb(20, 10, 28);
+opacity: 1;
+}
